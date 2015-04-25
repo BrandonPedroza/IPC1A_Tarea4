@@ -22,7 +22,6 @@ public class cola {
         cola2.add(cola.removeLast());
         cola2.add(cola.removeLast());
         
-        
         System.out.println(cola2);
         cola2.removeLast();
         System.out.println(cola2);
